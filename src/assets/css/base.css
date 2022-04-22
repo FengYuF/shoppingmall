@@ -1,0 +1,8 @@
+@import url(./normalize.css);
+body{
+    background-color: tomato;
+}
+img{
+  width: 30px;
+  height: 30px;
+}
